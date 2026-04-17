@@ -51,7 +51,7 @@ It features procedural level generation, physics-based gameplay, and modular arc
 
 ## 📹 Gameplay
 
-(Will be added soon)
+https://youtu.be/eZn4MTUVAzs
 
 ---
 
