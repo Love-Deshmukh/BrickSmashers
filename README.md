@@ -42,7 +42,7 @@ It features procedural level generation, physics-based gameplay, and modular arc
 
 ## 📸 Screenshots
 
-(Will be added soon)
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 161130" src="https://github.com/user-attachments/assets/385dbeec-823f-4668-9ae5-4de54054f454" />
 
 ---
 
